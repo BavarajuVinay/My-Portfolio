@@ -1,26 +1,34 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Smart Glasses with Voice Assistance and GPS for Independent Mobility of the Blind People",
+    "imageSrc": "projects/smart_glasses.png",
+    "description": "Developed IoT-based smart glasses with voice guidance and GPS, enhancing navigation, mobility, and independence for the visually impaired.",
+    "skills": ["IoT", "GPS", "Embedded Systems"],
+    "demo": "https://github.com/BavarajuVinay/Smart-Glasses",
+    "source": "https://github.com/BavarajuVinay/Smart-Glasses"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Flight Delay and Cancellation Analysis using PowerBI",
+    "imageSrc": "projects/flight_analysis.png",
+    "description": "Developed an interactive Power BI dashboard to analyze flight cancellations by routes, airlines, and delay reasons, providing actionable insights and helping identify trends for better decision-making.",
+    "skills": ["Power BI", "Data Visualization", "Analytics"],
+    "demo": "https://github.com/BavarajuVinay/Flight-Delay-and-Cancellation-Analysis-using-PowerBI",
+    "source": "https://github.com/BavarajuVinay/Flight-Delay-and-Cancellation-Analysis-using-PowerBI"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "MobileMart - Online Shopping Website",
+    "imageSrc": "projects/mobilemart.png",
+    "description": "Developed an online mobile shopping website with HTML, CSS, JavaScript, PHP, and MySQL, enabling users to browse and purchase mobile phones efficiently.",
+    "skills": ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
+    "demo": "https://github.com/BavarajuVinay/MobileMart",
+    "source": "https://github.com/BavarajuVinay/MobileMart"
+  },
+  {
+    "title": "FlicksHub - Movie Ticket Booking System",
+    "imageSrc": "projects/flickshub.png",
+    "description": "Designed a movie ticket booking system integrating user accounts, enhancing experience and boosting efficiency by streamlining seat selection and payment processes.",
+    "skills": ["HTML", "CSS", "JavaScript", "JSP", "MySQL"],
+    "demo": "https://github.com/BavarajuVinay/FlicksHub",
+    "source": "https://github.com/BavarajuVinay/FlicksHub"
   }
 ]

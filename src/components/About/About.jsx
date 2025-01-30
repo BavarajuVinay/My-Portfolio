@@ -19,8 +19,9 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
-                I'm a frontend developer with experience in building responsive
-                and optimized sites
+                Experienced in building responsive and optimized websites using 
+                HTML, CSS, JavaScript and React. Developed projects like an 
+                online movie booking system and an online mobile shopping system.
               </p>
             </div>
           </li>
@@ -29,18 +30,21 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
               <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs
+              Developed robust backend solutions using PHP and MySQL. 
+              Built scalable APIs and implemented secure database operations 
+              for web applications like an online movie booking system 
+              and an online mobile shopping system.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
+              <h3>IoT & Automation</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+              Hands-on experience with IoT applications and industrial automation. 
+              Completed a Smart Factory Automation internship at NIT Warangal, 
+              working with PLC programming, KUKA robots, and real-time monitoring.
               </p>
             </div>
           </li>
